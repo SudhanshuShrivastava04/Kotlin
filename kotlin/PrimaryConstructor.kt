@@ -23,3 +23,4 @@ fun main(){
     s2.print()
     s2.del()
 }
+//its non-mutable..
